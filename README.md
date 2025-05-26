@@ -31,7 +31,6 @@ The project contains three focused dashboards:
 ## 🧩 Dataset Used
 
 - **File:** `Superstore Dataset.xlsx`
-- **Provided by:** My mentor for learning purposes
 - **Data Range:** 2014 to 2017
 - **Fields:** Sales, Profit, Product, Category, Region, Segment, Customer Info, Discount, Shipping Mode, etc.
 
