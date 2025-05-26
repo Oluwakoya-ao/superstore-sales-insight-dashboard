@@ -65,7 +65,7 @@ The project contains three focused dashboards:
 ## 🌐 Live Dashboard (Published Link)
 
 > 📊 View the interactive Power BI dashboard here:  
-> 👉 [Click to Explore the Dashboard](https://app.powerbi.com/view?r=your-public-dashboard-link)
+> 👉 [Click to Explore the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJhZGVkZmEtNGQxNS00MzhjLTk1YzItOThhMjE2NTVjOTM1IiwidCI6ImU5NjlmODc4LWE2NzAtNGIxMy05Yjg2LWViYzFiYzhhZGVhMyJ9)
 
 > *(Note: Anyone with the link can view the dashboard)*
 
