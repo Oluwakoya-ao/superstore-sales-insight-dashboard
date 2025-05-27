@@ -57,8 +57,8 @@ The project contains three focused dashboards:
 
 ## 📥 Files Included
 
-- `Superstore Dataset.xlsx` — Dataset used in the dashboard
-- `Superstore Visualization.pdf` — Full dashboard exported from Power BI
+- `Superstore Dataset.xlsx` - Dataset used in the dashboard
+- `Superstore Visualization.pdf` - Full dashboard exported from Power BI
 
 ---
 
