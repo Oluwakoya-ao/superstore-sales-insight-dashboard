@@ -97,7 +97,7 @@ Includes:
 
 ## 🧑‍💻 Author
 
-**Ifeoma [Your Surname]**  
+**Oluwakoya Oluwafemi**  
 🎓 Data Analyst | Passionate about insights & business intelligence  
 🌐 [LinkedIn](https://www.linkedin.com/in/oluwakoya/)  
 📧 [ooluwakoyafavour@gmail.com] 
