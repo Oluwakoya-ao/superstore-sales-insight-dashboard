@@ -40,7 +40,7 @@ The project contains three focused dashboards:
 
 - 📍 **Phones and Technology** generate the highest profit and sales.
 - 🌎 **West region** leads with over **50% of total profit**.
-- 📉 **Discounts** don’t always lead to profit — pricing strategy matters.
+- 📉 **Discounts** don’t always lead to profit, pricing strategy matters.
 - 💡 **Copiers** have excellent profit margins despite fewer sales.
 - 🔁 **Repeat customers dominate**, indicating customer loyalty and satisfaction.
 
